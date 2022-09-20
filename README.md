@@ -19,7 +19,7 @@ Atraves desse teste eu tenho demostrar um poucos das minha capacidades técnicas
 
 ## Instruções
 
-```bash
+
   Os projetos estão distribuido em 3 grupos 
 ```bash
  # Console
