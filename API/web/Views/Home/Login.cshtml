@@ -1,0 +1,204 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+
+
+<style>
+    .rowteste {
+        box-sizing: border-box;
+    }
+
+    #FindAtual {
+        overflow: scroll;
+        height: 225px;
+        overflow-x: hidden;
+        width: 252px;
+    }
+
+    /* Create three equal columns that floats next to each other */
+    .columnteste {
+        float: left;
+        width: 48.33%;
+        padding: 10px;
+        height: 300px;
+        Should be removed. Only for demonstration
+    }
+
+    ul {
+        list-style-type: none;
+    }
+    .register{
+        display:none
+    }
+    .btn-register {
+        float:right
+    }
+    #divBusca {
+        background-color: #E0EEEE;
+        border: solid 2px #5F9EA0;
+        border-radius: 10px;
+        width: 300px;
+        height: 32px;
+    }
+
+    .conFind {
+        overflow: auto;
+        height: 226px;
+    }
+
+    #txtBusca {
+        float: left;
+        background-color: transparent;
+        padding-left: 5px;
+        font-size: 18px;
+        border: none;
+        height: 32px;
+        width: 191px;
+    }
+
+    #btnBusca {
+        border: none;
+        float: left;
+        height: 29px;
+        border-radius: 0 7px 7px 0;
+        width: 105px;
+        font-weight: bold;
+        background: #5F9EA0;
+    }
+    .consulta{
+        display:block
+    }
+
+    /* width */
+    ::-webkit-scrollbar {
+        width: 20px;
+    }
+
+    /* Track */
+    ::-webkit-scrollbar-track {
+        box-shadow: inset 0 0 5px grey;
+        border-radius: 10px;
+    }
+
+    /* Handle */
+    ::-webkit-scrollbar-thumb {
+        background: #152446;
+        border-radius: 10px;
+    }
+
+        /* Handle on hover */
+        ::-webkit-scrollbar-thumb:hover {
+            background: #b30000;
+        }
+</style>
+
+
+<div class="container consulta">
+
+    <div id="typecenario">
+        <button onclick="LoginGps.cadastroveiculo()" type="submit" class="float btn btn-success">Cadastrar</button>
+        <button onclick="LoginGps.get_All()"  type="submit" class="float btn btn-primary">Buscas Todos</button>        
+        <button onclick="LoginGps.get_para()" type="submit" class="float btn btn-info">Busca Parametros</button>
+
+    </div>
+
+    
+    <div>
+        <div class="list-group listcnpj agrup"></div>
+        <div class="list-group pesquisaAtual agrup"></div>
+    </div>
+
+    <div class="rowteste">
+        <div id="show-result" class="columnteste" style=" background-color: #aaa; display: none; width: 500px;">            
+            <h2 style="margin-top:10px"> Veiculos</h2>
+            <div id="FindAtual">
+            </div>
+        </div>
+        <div class="columnteste" style="width: 10px; background-color: transparent;">
+
+        </div>
+        <div id="cadastrar" class="columnteste" style="background-color: #ccc; display: none; width: 500px;">
+            <h2>Cadastrar</h2>
+            <div id="FindsAall" class="conFind">
+                <div>
+                    <table id="tb-cadas">
+
+                        <tr>
+                            <td><label for="veiculo"></label>Veiculo</td>
+                            <td><input  type="text" id="veiculo" name="veiculo" autocomplete="off"/></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td><label for="ano"></label>Ano</td>
+                            <td><input  type="text" placeholder="yyyy " class="ano" name="ano" autocomplete="off"/></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td><label for="marca"></label>Marca</td>
+                            <td><input  type="text" id="marca" name="marca" autocomplete="off"/></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td><label for="cor"></label>Cor</td>
+                            <td><input  type="text" id="cor" name="cor" autocomplete="off"/></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td><label for="desc"></label>Descriação</td>
+                            <td><input  type="text" id="desc" name="desc" autocomplete="off"/></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td style="padding: 5px 0px;">
+                                <button  class="float  btn-success" onclick="LoginGps.save()" >Gravar</button>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div  id="findparamter" class="columnteste" style="background-color: #ccc; display: none; width: 500px;">
+
+            <h2>Buscar por parametros</h2>
+            <div id="FindsAall" class="conFind">
+                <div>
+                    <table id="tb-find-para">
+                        <tr>
+                            <td><label for="ano"></label>Ano</td>
+                            <td><input type="text" placeholder="yyyy " class="ano" name="ano" autocomplete="off" /></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td><label for="marca"></label>Marca</td>
+                            <td><input type="text" id="marca" name="marca" autocomplete="off"/></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td><label for="cor"></label>Cor</td>
+                            <td><input type="text" id="cor" name="cor" autocomplete="off"/></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td style="padding: 5px 0px;">
+                                <button class="float btn btn-success" onclick="LoginGps.findparmiter()" type="submit">buscar</button>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <div id="divBusca">
+                    <input type="text" id="txtBusca" placeholder="GET por ID" />
+                    <button onclick="LoginGps.get_id()" class="btn" id="btnBusca">Buscar</button>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<script>
+
+    $(".ano").mask("9999");
+   
+</script>

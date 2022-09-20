@@ -1,0 +1,15 @@
+C:\Users\ADM\Documents\Rubens\gps\API\WebAcess\bin\Release\net5.0\Web.Acess.deps.json
+C:\Users\ADM\Documents\Rubens\gps\API\WebAcess\bin\Release\net5.0\Web.Acess.dll
+C:\Users\ADM\Documents\Rubens\gps\API\WebAcess\bin\Release\net5.0\ref\Web.Acess.dll
+C:\Users\ADM\Documents\Rubens\gps\API\WebAcess\bin\Release\net5.0\Web.Acess.pdb
+C:\Users\ADM\Documents\Rubens\gps\API\WebAcess\bin\Release\net5.0\Web.Model.dll
+C:\Users\ADM\Documents\Rubens\gps\API\WebAcess\bin\Release\net5.0\Web.Model.pdb
+C:\Users\ADM\Documents\Rubens\gps\API\WebAcess\obj\Release\net5.0\Web.Acess.csprojAssemblyReference.cache
+C:\Users\ADM\Documents\Rubens\gps\API\WebAcess\obj\Release\net5.0\Web.Acess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Documents\Rubens\gps\API\WebAcess\obj\Release\net5.0\Web.Acess.AssemblyInfoInputs.cache
+C:\Users\ADM\Documents\Rubens\gps\API\WebAcess\obj\Release\net5.0\Web.Acess.AssemblyInfo.cs
+C:\Users\ADM\Documents\Rubens\gps\API\WebAcess\obj\Release\net5.0\Web.Acess.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Documents\Rubens\gps\API\WebAcess\obj\Release\net5.0\Web.Acess.csproj.CopyComplete
+C:\Users\ADM\Documents\Rubens\gps\API\WebAcess\obj\Release\net5.0\Web.Acess.dll
+C:\Users\ADM\Documents\Rubens\gps\API\WebAcess\obj\Release\net5.0\ref\Web.Acess.dll
+C:\Users\ADM\Documents\Rubens\gps\API\WebAcess\obj\Release\net5.0\Web.Acess.pdb

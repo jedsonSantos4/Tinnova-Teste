@@ -1,0 +1,12 @@
+C:\Users\ADM\Documents\Rubens\gps\API\WebModel\bin\Release\net5.0\Web.Model.deps.json
+C:\Users\ADM\Documents\Rubens\gps\API\WebModel\bin\Release\net5.0\Web.Model.dll
+C:\Users\ADM\Documents\Rubens\gps\API\WebModel\bin\Release\net5.0\ref\Web.Model.dll
+C:\Users\ADM\Documents\Rubens\gps\API\WebModel\bin\Release\net5.0\Web.Model.pdb
+C:\Users\ADM\Documents\Rubens\gps\API\WebModel\obj\Release\net5.0\Web.Model.csprojAssemblyReference.cache
+C:\Users\ADM\Documents\Rubens\gps\API\WebModel\obj\Release\net5.0\Web.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Documents\Rubens\gps\API\WebModel\obj\Release\net5.0\Web.Model.AssemblyInfoInputs.cache
+C:\Users\ADM\Documents\Rubens\gps\API\WebModel\obj\Release\net5.0\Web.Model.AssemblyInfo.cs
+C:\Users\ADM\Documents\Rubens\gps\API\WebModel\obj\Release\net5.0\Web.Model.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Documents\Rubens\gps\API\WebModel\obj\Release\net5.0\Web.Model.dll
+C:\Users\ADM\Documents\Rubens\gps\API\WebModel\obj\Release\net5.0\ref\Web.Model.dll
+C:\Users\ADM\Documents\Rubens\gps\API\WebModel\obj\Release\net5.0\Web.Model.pdb

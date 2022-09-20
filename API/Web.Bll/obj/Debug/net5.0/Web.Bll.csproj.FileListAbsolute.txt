@@ -1,0 +1,60 @@
+C:\Users\ADM\Documents\Rubens\gps\API\Web.Bll\bin\Debug\net5.0\Web.Bll.deps.json
+C:\Users\ADM\Documents\Rubens\gps\API\Web.Bll\bin\Debug\net5.0\Web.Bll.dll
+C:\Users\ADM\Documents\Rubens\gps\API\Web.Bll\bin\Debug\net5.0\ref\Web.Bll.dll
+C:\Users\ADM\Documents\Rubens\gps\API\Web.Bll\bin\Debug\net5.0\Web.Bll.pdb
+C:\Users\ADM\Documents\Rubens\gps\API\Web.Bll\bin\Debug\net5.0\Web.Model.dll
+C:\Users\ADM\Documents\Rubens\gps\API\Web.Bll\bin\Debug\net5.0\Web.Model.pdb
+C:\Users\ADM\Documents\Rubens\gps\API\Web.Bll\obj\Debug\net5.0\Web.Bll.csprojAssemblyReference.cache
+C:\Users\ADM\Documents\Rubens\gps\API\Web.Bll\obj\Debug\net5.0\Web.Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Documents\Rubens\gps\API\Web.Bll\obj\Debug\net5.0\Web.Bll.AssemblyInfoInputs.cache
+C:\Users\ADM\Documents\Rubens\gps\API\Web.Bll\obj\Debug\net5.0\Web.Bll.AssemblyInfo.cs
+C:\Users\ADM\Documents\Rubens\gps\API\Web.Bll\obj\Debug\net5.0\Web.Bll.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Documents\Rubens\gps\API\Web.Bll\obj\Debug\net5.0\Web.Bll.csproj.CopyComplete
+C:\Users\ADM\Documents\Rubens\gps\API\Web.Bll\obj\Debug\net5.0\Web.Bll.dll
+C:\Users\ADM\Documents\Rubens\gps\API\Web.Bll\obj\Debug\net5.0\ref\Web.Bll.dll
+C:\Users\ADM\Documents\Rubens\gps\API\Web.Bll\obj\Debug\net5.0\Web.Bll.pdb
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\Web.Bll\bin\Debug\net5.0\Web.Bll.deps.json
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\Web.Bll\bin\Debug\net5.0\Web.Bll.dll
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\Web.Bll\bin\Debug\net5.0\ref\Web.Bll.dll
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\Web.Bll\bin\Debug\net5.0\Web.Bll.pdb
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\Web.Bll\bin\Debug\net5.0\Web.Model.dll
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\Web.Bll\bin\Debug\net5.0\Web.Model.pdb
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\Web.Bll\obj\Debug\net5.0\Web.Bll.csproj.AssemblyReference.cache
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\Web.Bll\obj\Debug\net5.0\Web.Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\Web.Bll\obj\Debug\net5.0\Web.Bll.AssemblyInfoInputs.cache
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\Web.Bll\obj\Debug\net5.0\Web.Bll.AssemblyInfo.cs
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\Web.Bll\obj\Debug\net5.0\Web.Bll.csproj.CoreCompileInputs.cache
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\Web.Bll\obj\Debug\net5.0\Web.Bll.csproj.CopyComplete
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\Web.Bll\obj\Debug\net5.0\Web.Bll.dll
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\Web.Bll\obj\Debug\net5.0\ref\Web.Bll.dll
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\Web.Bll\obj\Debug\net5.0\Web.Bll.pdb
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\Web.Bll\bin\Debug\net5.0\Web.Bll.deps.json
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\Web.Bll\bin\Debug\net5.0\Web.Bll.dll
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\Web.Bll\bin\Debug\net5.0\ref\Web.Bll.dll
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\Web.Bll\bin\Debug\net5.0\Web.Bll.pdb
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\Web.Bll\bin\Debug\net5.0\Web.Model.dll
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\Web.Bll\bin\Debug\net5.0\Web.Model.pdb
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\Web.Bll\obj\Debug\net5.0\Web.Bll.csproj.AssemblyReference.cache
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\Web.Bll\obj\Debug\net5.0\Web.Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\Web.Bll\obj\Debug\net5.0\Web.Bll.AssemblyInfoInputs.cache
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\Web.Bll\obj\Debug\net5.0\Web.Bll.AssemblyInfo.cs
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\Web.Bll\obj\Debug\net5.0\Web.Bll.csproj.CoreCompileInputs.cache
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\Web.Bll\obj\Debug\net5.0\Web.Bll.csproj.CopyComplete
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\Web.Bll\obj\Debug\net5.0\Web.Bll.dll
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\Web.Bll\obj\Debug\net5.0\ref\Web.Bll.dll
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\Web.Bll\obj\Debug\net5.0\Web.Bll.pdb
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\Web.Bll\bin\Debug\net5.0\Web.Bll.deps.json
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\Web.Bll\bin\Debug\net5.0\Web.Bll.dll
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\Web.Bll\bin\Debug\net5.0\ref\Web.Bll.dll
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\Web.Bll\bin\Debug\net5.0\Web.Bll.pdb
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\Web.Bll\bin\Debug\net5.0\Web.Model.dll
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\Web.Bll\bin\Debug\net5.0\Web.Model.pdb
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\Web.Bll\obj\Debug\net5.0\Web.Bll.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\Web.Bll\obj\Debug\net5.0\Web.Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\Web.Bll\obj\Debug\net5.0\Web.Bll.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\Web.Bll\obj\Debug\net5.0\Web.Bll.AssemblyInfo.cs
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\Web.Bll\obj\Debug\net5.0\Web.Bll.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\Web.Bll\obj\Debug\net5.0\Web.Bll.csproj.CopyComplete
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\Web.Bll\obj\Debug\net5.0\Web.Bll.dll
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\Web.Bll\obj\Debug\net5.0\ref\Web.Bll.dll
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\Web.Bll\obj\Debug\net5.0\Web.Bll.pdb

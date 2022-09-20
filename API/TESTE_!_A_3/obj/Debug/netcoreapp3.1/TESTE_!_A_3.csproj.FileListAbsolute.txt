@@ -1,0 +1,42 @@
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\TESTE_!_A_3\bin\Debug\netcoreapp3.1\TESTE_!_A_3.exe
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\TESTE_!_A_3\bin\Debug\netcoreapp3.1\TESTE_!_A_3.deps.json
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\TESTE_!_A_3\bin\Debug\netcoreapp3.1\TESTE_!_A_3.runtimeconfig.json
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\TESTE_!_A_3\bin\Debug\netcoreapp3.1\TESTE_!_A_3.runtimeconfig.dev.json
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\TESTE_!_A_3\bin\Debug\netcoreapp3.1\TESTE_!_A_3.dll
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\TESTE_!_A_3\bin\Debug\netcoreapp3.1\TESTE_!_A_3.pdb
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\TESTE_!_A_3\obj\Debug\netcoreapp3.1\TESTE_!_A_3.csproj.AssemblyReference.cache
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\TESTE_!_A_3\obj\Debug\netcoreapp3.1\TESTE_!_A_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\TESTE_!_A_3\obj\Debug\netcoreapp3.1\TESTE_!_A_3.AssemblyInfoInputs.cache
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\TESTE_!_A_3\obj\Debug\netcoreapp3.1\TESTE_!_A_3.AssemblyInfo.cs
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\TESTE_!_A_3\obj\Debug\netcoreapp3.1\TESTE_!_A_3.csproj.CoreCompileInputs.cache
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\TESTE_!_A_3\obj\Debug\netcoreapp3.1\TESTE_!_A_3.dll
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\TESTE_!_A_3\obj\Debug\netcoreapp3.1\TESTE_!_A_3.pdb
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\TESTE_!_A_3\obj\Debug\netcoreapp3.1\TESTE_!_A_3.genruntimeconfig.cache
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\TESTE_!_A_3\bin\Debug\netcoreapp3.1\TESTE_!_A_3.exe
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\TESTE_!_A_3\bin\Debug\netcoreapp3.1\TESTE_!_A_3.deps.json
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\TESTE_!_A_3\bin\Debug\netcoreapp3.1\TESTE_!_A_3.runtimeconfig.json
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\TESTE_!_A_3\bin\Debug\netcoreapp3.1\TESTE_!_A_3.runtimeconfig.dev.json
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\TESTE_!_A_3\bin\Debug\netcoreapp3.1\TESTE_!_A_3.dll
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\TESTE_!_A_3\bin\Debug\netcoreapp3.1\TESTE_!_A_3.pdb
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\TESTE_!_A_3\obj\Debug\netcoreapp3.1\TESTE_!_A_3.csproj.AssemblyReference.cache
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\TESTE_!_A_3\obj\Debug\netcoreapp3.1\TESTE_!_A_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\TESTE_!_A_3\obj\Debug\netcoreapp3.1\TESTE_!_A_3.AssemblyInfoInputs.cache
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\TESTE_!_A_3\obj\Debug\netcoreapp3.1\TESTE_!_A_3.AssemblyInfo.cs
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\TESTE_!_A_3\obj\Debug\netcoreapp3.1\TESTE_!_A_3.csproj.CoreCompileInputs.cache
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\TESTE_!_A_3\obj\Debug\netcoreapp3.1\TESTE_!_A_3.dll
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\TESTE_!_A_3\obj\Debug\netcoreapp3.1\TESTE_!_A_3.pdb
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\TESTE_!_A_3\obj\Debug\netcoreapp3.1\TESTE_!_A_3.genruntimeconfig.cache
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\TESTE_!_A_3\bin\Debug\netcoreapp3.1\TESTE_!_A_3.exe
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\TESTE_!_A_3\bin\Debug\netcoreapp3.1\TESTE_!_A_3.deps.json
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\TESTE_!_A_3\bin\Debug\netcoreapp3.1\TESTE_!_A_3.runtimeconfig.json
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\TESTE_!_A_3\bin\Debug\netcoreapp3.1\TESTE_!_A_3.runtimeconfig.dev.json
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\TESTE_!_A_3\bin\Debug\netcoreapp3.1\TESTE_!_A_3.dll
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\TESTE_!_A_3\bin\Debug\netcoreapp3.1\TESTE_!_A_3.pdb
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\TESTE_!_A_3\obj\Debug\netcoreapp3.1\TESTE_!_A_3.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\TESTE_!_A_3\obj\Debug\netcoreapp3.1\TESTE_!_A_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\TESTE_!_A_3\obj\Debug\netcoreapp3.1\TESTE_!_A_3.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\TESTE_!_A_3\obj\Debug\netcoreapp3.1\TESTE_!_A_3.AssemblyInfo.cs
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\TESTE_!_A_3\obj\Debug\netcoreapp3.1\TESTE_!_A_3.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\TESTE_!_A_3\obj\Debug\netcoreapp3.1\TESTE_!_A_3.dll
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\TESTE_!_A_3\obj\Debug\netcoreapp3.1\TESTE_!_A_3.pdb
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\TESTE_!_A_3\obj\Debug\netcoreapp3.1\TESTE_!_A_3.genruntimeconfig.cache

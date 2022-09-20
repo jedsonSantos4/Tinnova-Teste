@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "1GyW2YpvxO89X8o8uswQERGF5/4gFo+9SHLKi9FN5xoZOlxYeZcUo9jFz9U+mbJoXEInYEeKe6iTwMY9B+SXXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADM\\Desktop\\TinnovaTest - Jedson Santos\\API\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADM\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\ADM\\.nuget\\packages\\awssdk.core\\3.7.0.14\\awssdk.core.3.7.0.14.nupkg.sha512",
+    "C:\\Users\\ADM\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.7.0.1\\awssdk.extensions.netcore.setup.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\ADM\\.nuget\\packages\\awssdk.s3\\3.7.0.15\\awssdk.s3.3.7.0.15.nupkg.sha512",
+    "C:\\Users\\ADM\\.nuget\\packages\\bcrypt.net-next\\4.0.0\\bcrypt.net-next.4.0.0.nupkg.sha512",
+    "C:\\Users\\ADM\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
+    "C:\\Users\\ADM\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\ADM\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\ADM\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\ADM\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\ADM\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\ADM\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\ADM\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\ADM\\.nuget\\packages\\mongodb.bson\\2.12.1\\mongodb.bson.2.12.1.nupkg.sha512",
+    "C:\\Users\\ADM\\.nuget\\packages\\mongodb.driver\\2.12.1\\mongodb.driver.2.12.1.nupkg.sha512",
+    "C:\\Users\\ADM\\.nuget\\packages\\mongodb.driver.core\\2.12.1\\mongodb.driver.core.2.12.1.nupkg.sha512",
+    "C:\\Users\\ADM\\.nuget\\packages\\mongodb.libmongocrypt\\1.2.1\\mongodb.libmongocrypt.1.2.1.nupkg.sha512",
+    "C:\\Users\\ADM\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\ADM\\.nuget\\packages\\sharpcompress\\0.23.0\\sharpcompress.0.23.0.nupkg.sha512",
+    "C:\\Users\\ADM\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\ADM\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\ADM\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\ADM\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

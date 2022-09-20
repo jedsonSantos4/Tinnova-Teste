@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\ADM\Documents\Rubens\build</_PublishTargetUrl>
+    <History>True|2021-05-28T03:08:10.0072722Z;True|2021-05-27T23:55:57.7320691-03:00;True|2021-05-27T21:04:51.9744342-03:00;True|2021-05-27T15:11:09.1645412-03:00;True|2021-05-27T14:53:59.2725138-03:00;True|2021-05-27T14:53:28.0604570-03:00;True|2021-05-27T14:12:21.9876613-03:00;True|2021-05-27T01:20:16.0450009-03:00;True|2021-05-25T22:10:28.6943256-03:00;</History>
+  </PropertyGroup>
+</Project>

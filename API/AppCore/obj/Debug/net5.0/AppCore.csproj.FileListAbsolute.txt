@@ -1,0 +1,72 @@
+C:\Users\ADM\Documents\Rubens\ltj.Teste\Ltj.Teste\AppCore\bin\Debug\net5.0\AppCore.deps.json
+C:\Users\ADM\Documents\Rubens\ltj.Teste\Ltj.Teste\AppCore\bin\Debug\net5.0\AppCore.dll
+C:\Users\ADM\Documents\Rubens\ltj.Teste\Ltj.Teste\AppCore\bin\Debug\net5.0\ref\AppCore.dll
+C:\Users\ADM\Documents\Rubens\ltj.Teste\Ltj.Teste\AppCore\bin\Debug\net5.0\AppCore.pdb
+C:\Users\ADM\Documents\Rubens\ltj.Teste\Ltj.Teste\AppCore\obj\Debug\net5.0\AppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Documents\Rubens\ltj.Teste\Ltj.Teste\AppCore\obj\Debug\net5.0\AppCore.AssemblyInfoInputs.cache
+C:\Users\ADM\Documents\Rubens\ltj.Teste\Ltj.Teste\AppCore\obj\Debug\net5.0\AppCore.AssemblyInfo.cs
+C:\Users\ADM\Documents\Rubens\ltj.Teste\Ltj.Teste\AppCore\obj\Debug\net5.0\AppCore.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Documents\Rubens\ltj.Teste\Ltj.Teste\AppCore\obj\Debug\net5.0\AppCore.dll
+C:\Users\ADM\Documents\Rubens\ltj.Teste\Ltj.Teste\AppCore\obj\Debug\net5.0\ref\AppCore.dll
+C:\Users\ADM\Documents\Rubens\ltj.Teste\Ltj.Teste\AppCore\obj\Debug\net5.0\AppCore.pdb
+C:\Users\ADM\Documents\Rubens\ltj.Teste\Ltj.Teste\AppCore\obj\Debug\net5.0\AppCore.csprojAssemblyReference.cache
+C:\Users\ADM\Documents\Rubens\gps\AppCore\bin\Debug\net5.0\AppCore.deps.json
+C:\Users\ADM\Documents\Rubens\gps\AppCore\bin\Debug\net5.0\AppCore.dll
+C:\Users\ADM\Documents\Rubens\gps\AppCore\bin\Debug\net5.0\ref\AppCore.dll
+C:\Users\ADM\Documents\Rubens\gps\AppCore\bin\Debug\net5.0\AppCore.pdb
+C:\Users\ADM\Documents\Rubens\gps\AppCore\obj\Debug\net5.0\AppCore.csprojAssemblyReference.cache
+C:\Users\ADM\Documents\Rubens\gps\AppCore\obj\Debug\net5.0\AppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Documents\Rubens\gps\AppCore\obj\Debug\net5.0\AppCore.AssemblyInfoInputs.cache
+C:\Users\ADM\Documents\Rubens\gps\AppCore\obj\Debug\net5.0\AppCore.AssemblyInfo.cs
+C:\Users\ADM\Documents\Rubens\gps\AppCore\obj\Debug\net5.0\AppCore.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Documents\Rubens\gps\AppCore\obj\Debug\net5.0\AppCore.dll
+C:\Users\ADM\Documents\Rubens\gps\AppCore\obj\Debug\net5.0\ref\AppCore.dll
+C:\Users\ADM\Documents\Rubens\gps\AppCore\obj\Debug\net5.0\AppCore.pdb
+C:\Users\ADM\Documents\Rubens\gps\API\AppCore\bin\Debug\net5.0\AppCore.deps.json
+C:\Users\ADM\Documents\Rubens\gps\API\AppCore\bin\Debug\net5.0\AppCore.dll
+C:\Users\ADM\Documents\Rubens\gps\API\AppCore\bin\Debug\net5.0\ref\AppCore.dll
+C:\Users\ADM\Documents\Rubens\gps\API\AppCore\bin\Debug\net5.0\AppCore.pdb
+C:\Users\ADM\Documents\Rubens\gps\API\AppCore\obj\Debug\net5.0\AppCore.csprojAssemblyReference.cache
+C:\Users\ADM\Documents\Rubens\gps\API\AppCore\obj\Debug\net5.0\AppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Documents\Rubens\gps\API\AppCore\obj\Debug\net5.0\AppCore.AssemblyInfoInputs.cache
+C:\Users\ADM\Documents\Rubens\gps\API\AppCore\obj\Debug\net5.0\AppCore.AssemblyInfo.cs
+C:\Users\ADM\Documents\Rubens\gps\API\AppCore\obj\Debug\net5.0\AppCore.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Documents\Rubens\gps\API\AppCore\obj\Debug\net5.0\AppCore.dll
+C:\Users\ADM\Documents\Rubens\gps\API\AppCore\obj\Debug\net5.0\ref\AppCore.dll
+C:\Users\ADM\Documents\Rubens\gps\API\AppCore\obj\Debug\net5.0\AppCore.pdb
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\AppCore\bin\Debug\net5.0\AppCore.deps.json
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\AppCore\bin\Debug\net5.0\AppCore.dll
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\AppCore\bin\Debug\net5.0\ref\AppCore.dll
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\AppCore\bin\Debug\net5.0\AppCore.pdb
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\AppCore\obj\Debug\net5.0\AppCore.csproj.AssemblyReference.cache
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\AppCore\obj\Debug\net5.0\AppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\AppCore\obj\Debug\net5.0\AppCore.AssemblyInfoInputs.cache
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\AppCore\obj\Debug\net5.0\AppCore.AssemblyInfo.cs
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\AppCore\obj\Debug\net5.0\AppCore.csproj.CoreCompileInputs.cache
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\AppCore\obj\Debug\net5.0\AppCore.dll
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\AppCore\obj\Debug\net5.0\ref\AppCore.dll
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\AppCore\obj\Debug\net5.0\AppCore.pdb
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\AppCore\bin\Debug\net5.0\AppCore.deps.json
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\AppCore\bin\Debug\net5.0\AppCore.dll
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\AppCore\bin\Debug\net5.0\ref\AppCore.dll
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\AppCore\bin\Debug\net5.0\AppCore.pdb
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\AppCore\obj\Debug\net5.0\AppCore.csproj.AssemblyReference.cache
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\AppCore\obj\Debug\net5.0\AppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\AppCore\obj\Debug\net5.0\AppCore.AssemblyInfoInputs.cache
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\AppCore\obj\Debug\net5.0\AppCore.AssemblyInfo.cs
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\AppCore\obj\Debug\net5.0\AppCore.csproj.CoreCompileInputs.cache
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\AppCore\obj\Debug\net5.0\AppCore.dll
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\AppCore\obj\Debug\net5.0\ref\AppCore.dll
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\AppCore\obj\Debug\net5.0\AppCore.pdb
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\AppCore\bin\Debug\net5.0\AppCore.deps.json
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\AppCore\bin\Debug\net5.0\AppCore.dll
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\AppCore\bin\Debug\net5.0\ref\AppCore.dll
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\AppCore\bin\Debug\net5.0\AppCore.pdb
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\AppCore\obj\Debug\net5.0\AppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\AppCore\obj\Debug\net5.0\AppCore.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\AppCore\obj\Debug\net5.0\AppCore.AssemblyInfo.cs
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\AppCore\obj\Debug\net5.0\AppCore.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\AppCore\obj\Debug\net5.0\AppCore.dll
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\AppCore\obj\Debug\net5.0\ref\AppCore.dll
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\AppCore\obj\Debug\net5.0\AppCore.pdb
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\AppCore\obj\Debug\net5.0\AppCore.csproj.AssemblyReference.cache

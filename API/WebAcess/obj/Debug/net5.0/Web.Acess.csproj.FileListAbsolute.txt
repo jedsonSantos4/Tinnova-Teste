@@ -1,0 +1,60 @@
+C:\Users\ADM\Documents\Rubens\gps\API\WebAcess\bin\Debug\net5.0\Web.Acess.deps.json
+C:\Users\ADM\Documents\Rubens\gps\API\WebAcess\bin\Debug\net5.0\Web.Acess.dll
+C:\Users\ADM\Documents\Rubens\gps\API\WebAcess\bin\Debug\net5.0\ref\Web.Acess.dll
+C:\Users\ADM\Documents\Rubens\gps\API\WebAcess\bin\Debug\net5.0\Web.Acess.pdb
+C:\Users\ADM\Documents\Rubens\gps\API\WebAcess\bin\Debug\net5.0\Web.Model.dll
+C:\Users\ADM\Documents\Rubens\gps\API\WebAcess\bin\Debug\net5.0\Web.Model.pdb
+C:\Users\ADM\Documents\Rubens\gps\API\WebAcess\obj\Debug\net5.0\Web.Acess.csprojAssemblyReference.cache
+C:\Users\ADM\Documents\Rubens\gps\API\WebAcess\obj\Debug\net5.0\Web.Acess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Documents\Rubens\gps\API\WebAcess\obj\Debug\net5.0\Web.Acess.AssemblyInfoInputs.cache
+C:\Users\ADM\Documents\Rubens\gps\API\WebAcess\obj\Debug\net5.0\Web.Acess.AssemblyInfo.cs
+C:\Users\ADM\Documents\Rubens\gps\API\WebAcess\obj\Debug\net5.0\Web.Acess.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Documents\Rubens\gps\API\WebAcess\obj\Debug\net5.0\Web.Acess.csproj.CopyComplete
+C:\Users\ADM\Documents\Rubens\gps\API\WebAcess\obj\Debug\net5.0\Web.Acess.dll
+C:\Users\ADM\Documents\Rubens\gps\API\WebAcess\obj\Debug\net5.0\ref\Web.Acess.dll
+C:\Users\ADM\Documents\Rubens\gps\API\WebAcess\obj\Debug\net5.0\Web.Acess.pdb
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\WebAcess\bin\Debug\net5.0\Web.Acess.deps.json
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\WebAcess\bin\Debug\net5.0\Web.Acess.dll
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\WebAcess\bin\Debug\net5.0\ref\Web.Acess.dll
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\WebAcess\bin\Debug\net5.0\Web.Acess.pdb
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\WebAcess\bin\Debug\net5.0\Web.Model.dll
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\WebAcess\bin\Debug\net5.0\Web.Model.pdb
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\WebAcess\obj\Debug\net5.0\Web.Acess.csproj.AssemblyReference.cache
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\WebAcess\obj\Debug\net5.0\Web.Acess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\WebAcess\obj\Debug\net5.0\Web.Acess.AssemblyInfoInputs.cache
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\WebAcess\obj\Debug\net5.0\Web.Acess.AssemblyInfo.cs
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\WebAcess\obj\Debug\net5.0\Web.Acess.csproj.CoreCompileInputs.cache
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\WebAcess\obj\Debug\net5.0\Web.Acess.csproj.CopyComplete
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\WebAcess\obj\Debug\net5.0\Web.Acess.dll
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\WebAcess\obj\Debug\net5.0\ref\Web.Acess.dll
+C:\Users\JdsonNote\Downloads\GPSTest-main\GPSTest-main\API\WebAcess\obj\Debug\net5.0\Web.Acess.pdb
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\WebAcess\bin\Debug\net5.0\Web.Acess.deps.json
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\WebAcess\bin\Debug\net5.0\Web.Acess.dll
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\WebAcess\bin\Debug\net5.0\ref\Web.Acess.dll
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\WebAcess\bin\Debug\net5.0\Web.Acess.pdb
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\WebAcess\bin\Debug\net5.0\Web.Model.dll
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\WebAcess\bin\Debug\net5.0\Web.Model.pdb
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\WebAcess\obj\Debug\net5.0\Web.Acess.csproj.AssemblyReference.cache
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\WebAcess\obj\Debug\net5.0\Web.Acess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\WebAcess\obj\Debug\net5.0\Web.Acess.AssemblyInfoInputs.cache
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\WebAcess\obj\Debug\net5.0\Web.Acess.AssemblyInfo.cs
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\WebAcess\obj\Debug\net5.0\Web.Acess.csproj.CoreCompileInputs.cache
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\WebAcess\obj\Debug\net5.0\Web.Acess.csproj.CopyComplete
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\WebAcess\obj\Debug\net5.0\Web.Acess.dll
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\WebAcess\obj\Debug\net5.0\ref\Web.Acess.dll
+C:\Users\JdsonNote\Downloads\GPSTest-main\TinnovaTest\API\WebAcess\obj\Debug\net5.0\Web.Acess.pdb
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\WebAcess\bin\Debug\net5.0\Web.Acess.deps.json
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\WebAcess\bin\Debug\net5.0\Web.Acess.dll
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\WebAcess\bin\Debug\net5.0\ref\Web.Acess.dll
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\WebAcess\bin\Debug\net5.0\Web.Acess.pdb
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\WebAcess\bin\Debug\net5.0\Web.Model.dll
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\WebAcess\bin\Debug\net5.0\Web.Model.pdb
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\WebAcess\obj\Debug\net5.0\Web.Acess.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\WebAcess\obj\Debug\net5.0\Web.Acess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\WebAcess\obj\Debug\net5.0\Web.Acess.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\WebAcess\obj\Debug\net5.0\Web.Acess.AssemblyInfo.cs
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\WebAcess\obj\Debug\net5.0\Web.Acess.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\WebAcess\obj\Debug\net5.0\Web.Acess.csproj.CopyComplete
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\WebAcess\obj\Debug\net5.0\Web.Acess.dll
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\WebAcess\obj\Debug\net5.0\ref\Web.Acess.dll
+C:\Users\ADM\Desktop\TinnovaTest - Jedson Santos\API\WebAcess\obj\Debug\net5.0\Web.Acess.pdb
