@@ -18,13 +18,12 @@ Atraves desse teste eu tenho demostrar um poucos das minha capacidades técnicas
 
 
 ## Instruções
-(https://pip.pypa.io/en/stable/) to install foobar.
+
 ```bash
   Os projetos estão distribuido em 3 grupos 
 ```bash
  # Console
  # web
  # API
-foobar.singularize('phenomena')
 
 
